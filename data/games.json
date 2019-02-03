@@ -1,0 +1,115 @@
+[
+		
+					
+					
+					
+			
+					{
+					"ID": "100",
+					"link": "game.html",
+					"Name": " Sonic Forces",
+					"ReleaseDate": " November 2017",
+					"Genres":" Adventure, Action, Running",
+					"RetailPrice": " £34.99",
+					"Rating": " 0",
+					"Type": "Coming Soon",
+					"Age": "7+",
+					"image": "images/sonic.jpg",
+					"Preview": "images/sonicforcesP.jpg"
+					},
+					{
+					"ID": "101",
+					"link": "game.html",
+					 "Name": " Kirby Star Allies",
+					 "ReleaseDate": " March 2018",
+					 "Genres": " Adventure, Action, Platform, Multiplayer",
+					 "RetailPrice": " £44.99",
+					 "Rating": " 0",
+					 "Type": "Coming Soon",
+					 "Age": "7+",
+					 "image": "images/kirby.jpg",
+					 "Preview": "images/kirbyP.jpg"
+					},
+					{
+					"ID": "102",
+					"link": "game.html",
+					 "Name": " Pokemon stars",
+					 "ReleaseDate": " September 2018",
+					 "Genres": " Adventure, Action, Running, RPG",
+					 "RetailPrice": " £44.99",
+					 "Rating": " 0",
+					 "Type": "Coming Soon",
+					 "Age": "3+",
+					 "image": "images/stars.png",
+					 "Preview": "images/starsP.jpg"
+					 },
+					 	{
+					"ID": "103",
+					"link": "game.html",
+					 "Name": " Mario Kart 8 Deluxe",
+					 "ReleaseDate": " September 2018",
+					 "Genres": " Racing, Action, Multiplayer",
+					 "RetailPrice": " £42.99",
+					 "Rating": " 0",
+					 "Type": "Coming Soon",
+					 "Age": "3+",
+					 "image": "images/mariokart.jpg",
+					 "Preview":"images/mariokartP.jpg"
+					 },
+		
+					 {
+					 "ID": "1",
+					 "link": "game.html",
+					"Name": " Super Mario Odyssey",
+					"ReleaseDate": " Out now",
+					"Genres": " Adventure, platform",
+					"RetailPrice" : " £46.99",
+					"Rating":  "5",
+					"Type": "New Release",
+					"Age": "3+",
+					 "image": "images/mario.png",
+					 "Preview": "images/odysseyP.jpg"
+					 },
+					 {
+					 "ID": "2",
+					 "link": "game.html",
+					 "Name": " Legend of Zelda: breath of the wild",
+					"ReleaseDate": " Out now",
+					"Genres": " Adventure, action",
+					"RetailPrice": "£59.99",
+					"Rating": "5",
+					"Type": "New Release",
+					"Age": "12+",
+					 "image": "images/zelda.png",
+					  "Preview":"images/zeldaP.jpg"
+					},
+					{
+						"ID": "3",
+						"link": "game.html",
+					"Name": " Pokken Tournaments",
+					"ReleaseDate": " Out now",
+					"Genres": " Action, Fighting",
+					"RetailPrice": "£59.99",
+					"Rating": "3",
+					"Type": "New Release",
+					"Age": "7+",
+					"image": "images/pokken.png",
+					"Preview": "images/pokkenP.jpg"
+					},
+					{
+						"ID": "4",
+						"link": "game.html",
+					 "Name": " Splatoon 2",
+					 "ReleaseDate": " Out Now",
+					 "Genres": " Adventure, Action, Running, RPG, Platform, Multiplayer",
+					 "RetailPrice": " £41.99",
+					 "Rating": " 4",
+					 "Type": "New Release",
+					 "Age": "3+",
+					 "image": "images/splat2.png",
+					 "Preview": "images/splatoon2P.jpg"
+					 }
+ ]
+				
+					
+ 

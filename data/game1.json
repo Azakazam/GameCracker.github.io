@@ -1,0 +1,17 @@
+
+{
+					 "ID": "1",
+					 "link": "game.html",
+					"Name": " Super Mario Odyssey",
+					"ReleaseDate": " Out now",
+					"Genres": "Adventure, platform",
+					"RetailPrice" : " £46.99",
+					"Rating":  "5",
+					"Type": "New Release",
+					"Age": "3+",
+					 "image": "images/mario.png",
+					  "Preview": "images/odysseyP.jpg",
+					 "desc": "Embark on a cap-tivating, globe-trotting adventure. Join Mario on a massive, globe-trotting 3D adventure and use his incredible abilities to collect Moons so you can power up your airship, the Odyssey, and rescue Princess Peach from Bowser’s wedding plans.",
+					 "desc2": "This 3D Mario adventure is packed with secrets and surprises, and with Mario’s moves like cap throw, cap jump, and capture, you’ll have fun and exciting gameplay experiences unlike anything you’ve enjoyed in a Mario game before. Get ready to be whisked away to strange and amazing places far from the Mushroom Kingdom."
+ }
+ 

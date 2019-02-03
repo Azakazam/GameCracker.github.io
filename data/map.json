@@ -1,0 +1,83 @@
+[
+					{
+					"Name": "Game",
+					"Lat": 51.508742,
+					"Long": -0.3100,
+					"content1" : "We are the specialist gaming retailer, and we’ve got the look to go with it. We’re easy to spot, with bold window displays, strong gaming and personal branding. We’re known for our midnight launches, overnight gaming lock-ins, and all the cool stuff we do with our community of gamers. We not only get involved with our local communities, but we help them grow.",
+					"content2" : "Nintendo switches in stock: 12",
+					"icon" : "mapImages/blu-stars.png",
+					"image" : "mapImages/game.jpg"
+					},
+						{
+					"Name": "Cex",
+					"Lat": 51.508742,
+					"Long": -0.120850,
+					"content1" : "We buy, sell and exchange a range of technology and entertainment products including mobile phones, video games, DVDs and Blu-ray movies, computers, digital electronics, TVs and monitors, and music CDs.",
+					"content2" : "Nintendo switches in stock: 3",
+					"icon" :  "mapImages/blu-stars.png",
+					"image" : "mapImages/cex.jpg"
+					},
+					{
+					"Name": "Argos",
+					"Lat": 52.856560,
+					"Long": -1.827025,
+					"content1" : "We buy, sell and exchange a range of technology and entertainment products including mobile phones, video games, DVDs and Blu-ray movies, computers, digital electronics, TVs and monitors, and music CDs.",
+					"content2" : "Nintendo switches in stock: 0",
+					"icon" :  "mapImages/blu-stars.png",
+					"image" : "mapImages/argos.jpg"
+					},
+					{
+					"Name": "GameStop",
+					"Lat": 52.020870,
+					"Long": 0.367081,
+					"content1" : "GameStop is committed to delivering innovation to consumers anywhere, anytime and any way they want it. Whether looking for new or pre-owned, digital or physical video game titles, the latest in video game hardware or accessories or consumer electronics, gaming and technology enthusiasts are invited to discover and enjoy their favorite products in one of GameStop's welcoming retail environments.",
+					"content2" : "Nintendo switches in stock: 5",
+					"icon" :  "mapImages/blu-stars.png",
+					"image" : "mapImages/gamestop.jpg"
+					},
+					{
+					"Name": "Toys R Us",
+					"Lat": 52.809403,
+					"Long": -3.317871,
+					"content1" : "Here at Toys R Us, we have a huge range of kids' toys & games including outdoor toys, arts & crafts, action figures and more. Shop the range online today or come into store for more information.",
+					"content2" : "Nintendo switches in stock: 0",
+					"icon" :  "mapImages/blu-stars.png",
+					"image" : "mapImages/toys.jpg"
+					},
+					{
+					"Name": "Walmart",
+					"Lat": 53.985686,
+					"Long": -0.560595,
+					"content1" : "What started small, with a single discount store and the simple idea of selling more for less, has grown over the last 50 years into the largest retailer in the world. Shop Walmart for Every Day Low Prices. Free Shipping on Orders £35+ or Pickup In-Store and get a Pickup Discount. Open a Walmart Credit Card to Save Even More!.",
+					"content2" : "Nintendo switches in stock: 44",
+					"icon" :  "mapImages/blu-stars.png",
+					"image" : "mapImages/walmart.jpg"
+					},
+					{
+					"Name": "Toys R Us",
+					"Lat": 52.627452,
+					"Long": 0.340891,
+					"content1" : "Here at Toys R Us, we have a huge range of kids' toys & games including outdoor toys, arts & crafts, action figures and more. Shop the range online today or come into store for more information.",
+					"content2" : "Nintendo switches in stock: 4",
+					"icon" :  "mapImages/blu-stars.png",
+					"image" : "mapImages/toys.jpg"
+					},
+					{
+					"Name": "Game",
+					"Lat": 55.788869,
+					"Long": -3.526355,
+					"content1" : "We are the specialist gaming retailer, and we’ve got the look to go with it. We’re easy to spot, with bold window displays, strong gaming and personal branding. We’re known for our midnight launches, overnight gaming lock-ins, and all the cool stuff we do with our community of gamers. We not only get involved with our local communities, but we help them grow.",
+					"content2" : "Nintendo switches in stock: 12",
+					"icon" : "mapImages/blu-stars.png",
+					"image" : "mapImages/game.jpg"
+					},
+					{
+					"Name": "Cex",
+					"Lat": 54.146697,
+					"Long": -4.663011,
+					"content1" : "We buy, sell and exchange a range of technology and entertainment products including mobile phones, video games, DVDs and Blu-ray movies, computers, digital electronics, TVs and monitors, and music CDs.",
+					"content2" : "Nintendo switches in stock: 0",
+					"icon" :  "mapImages/blu-stars.png",
+					"image" : "mapImages/cex.jpg"
+					}
+] 
